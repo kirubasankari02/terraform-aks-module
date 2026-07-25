@@ -1,0 +1,5 @@
+subscription_id      = "00000-0000-0000-0000-00000"
+resource_group_name  = "rg-terraform-storage-dev"
+location             = "Canada Central"
+storage_account_name = "sttfstorageks02"
+container_name       = "documents"
