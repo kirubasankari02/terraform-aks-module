@@ -11,8 +11,8 @@ terraform {
     storage_account_name = "sttfstateks5339"
     container_name       = "tfstate"
     key                  = "terraform-azure-storage.tfstate"
-    use_cli = true
-    use_azuread_auth = true
+    use_cli              = true
+    use_azuread_auth     = true
   }
 }
 
